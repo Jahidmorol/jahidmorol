@@ -47,11 +47,11 @@ cater to the needs of clients.
 
 ## Highlight Projects: 🗂️
 <div>
-  <a href="https://github.com/jahidmorol/flex-code" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=flex-code&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Flex Code" />
+  <a href="https://github.com/ihshadin/flex-code" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihshadin&repo=flex-code&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Flex Code" />
   </a>
-  <a href="https://github.com/jahidmorol/sports-sphere-client" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=sports-sphere-client&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Sports Sphere" />
+  <a href="https://github.com/Jahidmorol/focus-sports-camp-client" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=focus-sports-camp-client&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Sports Sphere" />
   </a>
   <a href="https://github.com/jahidmorol/toy-topia-client" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=toy-topia-client&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Flex Code" />
