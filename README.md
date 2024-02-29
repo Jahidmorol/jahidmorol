@@ -39,10 +39,10 @@ cater to the needs of clients.
 </div>
 <div>
   <img src="https://streak-stats.demolab.com?user=jahidmorol&theme=react&hide_border=true" style="width: 55%;" alt="Imam Hossain" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=jahidmorol&limit=5&bg_color=30,001623,016197&title_color=fff&text_color=fff&combine_all_yearly_contributions=true&line=7F3FBF&hide_border=true" style="width: 44%;" alt="Imam Hossain" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=jahidmorol&limit=5&bg_color=30,001623,016197&title_color=fff&text_color=fff&combine_all_yearly_contributions=true&line=7F3FBF&hide_border=true" style="width: 44%;" alt="Jahid Hasan" />
 </div>
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahidmorol&custom_title=Imam%20Hossain%20Shadin's%20GitHub%20Activity%20Graph&bg_color=001623&color=fff&line=fff&point=fff&area_color=DAFFFB&title_color=FFFFFF&area=true&height=500&radius=5&hide_border=true" alt="Imam Hossain" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahidmorol&custom_title=Jahid%20Hasan's%20GitHub%20Activity%20Graph&bg_color=001623&color=fff&line=fff&point=fff&area_color=DAFFFB&title_color=FFFFFF&area=true&height=500&radius=5&hide_border=true" alt="Jahid Hasan" />
 </div>
 
 ## Highlight Projects: 🗂️
