@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://i.ibb.co/Fn0TpDg/wellcome.gif" style="width: 1200px" alt="Wellcome to my profile" />
 </div>
-<img src="https://i.ibb.co/kJqQLC3/Github-Banner.png" style="width: 100%;" alt="Imam hossain" />
+<img src="https://i.ibb.co/4d9v2Q9/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" style="width: 100%;" alt="Jahid-Hasan" />
 <p>
 💬 By continually staying ahead of industry trends and embracing lifelong learning, my aim is to make
 a profound impact by creating visually impressive and highly functional websites that precisely
@@ -35,7 +35,7 @@ cater to the needs of clients.
 ## GitHub Stats: 📰
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=jahidmorol&show_icons=true&bg_color=30,001623,016197&title_color=fff&text_color=fff&hide_border=true" style="width: 61%;" alt="Imam Hossain" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidmorol&show_icons=true&bg_color=30,016197,001623&title_color=fff&text_color=fff&hide_border=true" style="width: 37%;" alt="Imam Hossain" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidmorol&show_icons=true&bg_color=30,016197,001623&title_color=fff&text_color=fff&hide_border=true" style="width: 37%;" alt="Jahid-Hasan" />
 </div>
 <div>
   <img src="https://streak-stats.demolab.com?user=jahidmorol&theme=react&hide_border=true" style="width: 55%;" alt="Imam Hossain" />
