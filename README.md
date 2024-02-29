@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div>
   <img src="https://i.ibb.co/Fn0TpDg/wellcome.gif" style="width: 1200px" alt="Wellcome to my profile" />
 </div>
+-->
 
 <img src="https://i.ibb.co/4d9v2Q9/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" style="width: 100%;" alt="Jahid-Hasan" />
 <p>
