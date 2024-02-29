@@ -74,7 +74,7 @@ cater to the needs of clients.
 
 ## Connect with me: 📲
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahidmorol/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ih.shadin) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jahidmorol2) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/jahidmorol)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/jahidmorol)
-[![CodePen](https://img.shields.io/badge/CodePen-%231E1F26.svg?logo=codepen&logoColor=white)](https://codepen.io/jahidmorol)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/jahidmorol2)
+[![CodePen](https://img.shields.io/badge/Codewars-%23E4405F.svg?logo=codewars&logoColor=white)](https://www.codewars.com/users/jahidmorol)
