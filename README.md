@@ -37,7 +37,7 @@ cater to the needs of clients.
 
 ## GitHub Stats: 📰
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jahidmorol&show_icons=true&bg_color=30,001623,016197&title_color=fff&text_color=fff&hide_border=true" style="width: 61%;" alt="Imam Hossain" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidmorol&show_icons=true&bg_color=30,001623,016197&title_color=fff&text_color=fff&hide_border=true" style="width: 61%;" alt="Jahid-Hasan" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidmorol&show_icons=true&bg_color=30,016197,001623&title_color=fff&text_color=fff&hide_border=true" style="width: 37%;" alt="Jahid-Hasan" />
 </div>
 <div>
@@ -53,14 +53,14 @@ cater to the needs of clients.
   <a href="https://github.com/ihshadin/flex-code" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihshadin&repo=flex-code&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Flex Code" />
   </a>
-  <a href="https://github.com/Jahidmorol/focus-sports-camp-client" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=focus-sports-camp-client&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Sports Sphere" />
+  <a href="https://github.com/Jahidmorol/ph-healthcare-front" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=ph-healthcare-front&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Sports Sphere" />
   </a>
-  <a href="https://github.com/jahidmorol/toy-topia-client" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=toy-topia-client&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Flex Code" />
+  <a href="https://github.com/Jahidmorol/petcare_frontend" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=petcare_frontend&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="petcare" />
   </a>
-  <a href="https://github.com/jahidmorol/khana-pina-client" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=khana-pina-client&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="Sports Sphere" />
+  <a href="https://github.com/Jahidmorol/trip-buddy-client" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jahidmorol&repo=trip-buddy-client&bg_color=30,001623,004068&title_color=fff&text_color=8B949E&icon_color=64CCC5&hide_border=true" style="width: 49%;" alt="trip buddy" />
   </a>
 </div>
 <p align="left">
