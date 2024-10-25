@@ -28,12 +28,11 @@ cater to the needs of clients.
 ## Skills: 👨‍💻
 *Expertise:* HTML5 | CSS3 | JavaScript ES6 | Bootstrap | Tailwind CSS | DaisyUI | Firebase Authentication | MongoDB | React.js | React Router</br>
 *Comfortable:* ExpressJS | Rest APIs | JWT</br>
-*Familiar:* Node | Stripe | PHP</br>
+*Familiar:* Node | Stripe </br>
 *Tools:* VS Code | Netlify | Vercel | Firebase | Dotenv | Figma | Photoshop</br>
-*Extra Skills:* WordPress | Elementor | Divi Builder | WooCommerce | Tutor LMS</br>
 
-- 🔭 I’m currently working on [SynerShop](#)
-- 🌱 I’m currently learning Next.js, Redux
+- 🔭 I’m currently working on [labeone-hospital](https://labonehospital.com)
+- 🌱 I’m currently learning React-Native, Devops
 
 ## GitHub Stats: 📰
 <div>
